@@ -1,10 +1,13 @@
 # Severidade não é exploração: a nota CVSS prioriza bem as correções de segurança?
 
 **MVP (Minimum Viable Product): pipeline de dados em nuvem**
-Universidade de Brasília (UnB), Departamento de Engenharia de Produção
-Professor: André Luiz Marques Serrano
-**Autor:** João Pedro Ferreira Bitencourt (matrícula 211068047)
-**Plataforma:** Databricks Free Edition (Unity Catalog, Delta Lake, computação serverless) ([evidência 1](evidencias/01_databricks_free_edition.png))
+
+   | | |
+   |---|---|
+   | **Instituição** | Universidade de Brasília (UnB), Departamento de Engenharia de Produção |
+   | **Professor** | André Luiz Marques Serrano |
+   | **Autor** | João Pedro Ferreira Bitencourt (matrícula 211068047) |
+   | **Plataforma** | Databricks Free Edition: Unity Catalog, Delta Lake, computação serverless ([evidência 1](evidencias/01_databricks_free_edition.png)) |
 
 > This product uses the NVD API but is not endorsed or certified by the NVD.
 
